@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Indrani 👋
+
+🎓 BSc Data Science|📊 Statistics Enthusiast|💼 Aspiring Business Analyst 
+-🌱 I'm currently learning Statistics applications and Machine Learning.
+-🔭 I'm working on **GATE DA preparation** to strengthen my core concepts in statistics, programming, and data analysis.
+-🤝 I’m looking to collaborate on projects involving SQL, R, Python, and statistical modeling.
+-📫 How to reach me: Email : isengupta1911@gmail.com, LinkedIn : https://www.linkedin.com/in/contactindranisengupta
+-🙋 I’m looking for help with building impactful projects in Finance and analytics.
+
 
 <!--
 **Indrani-Sengupta/Indrani-Sengupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
